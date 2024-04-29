@@ -1,5 +1,11 @@
 [
-    "https://cdn.discordapp.com/attachments/976809804074991616/1233740670297182309/image.png?ex=6630d509&is=662f8389&hm=df4c6383d429554ba8a4b849a65ced5f6734e14b65603f74a7608af2ed08da30&",
-    "https://preview.redd.it/my-attempt-to-recreate-the-paul-walker-brian-oconner-car-v0-a32kjfosv8fb1.jpg?width=1920&format=pjpg&auto=webp&s=af6823a88077ba5d770db69a28837e3a30f85377",
-    "https://cdn.discordapp.com/attachments/976809804074991616/1202660375208927322/image.png?ex=66312441&is=662fd2c1&hm=6c0d56208e05e0446fcaa799328d7832919e16d9491d56c8c464f8bb9a295169&"
+    {
+        "filePath": "https://cdn.discordapp.com/attachments/976809804074991616/1233740670297182309/image.png?ex=6630d509&is=662f8389&hm=df4c6383d429554ba8a4b849a65ced5f6734e14b65603f74a7608af2ed08da30&"
+    },
+    {
+        "filePath": "https://preview.redd.it/my-attempt-to-recreate-the-paul-walker-brian-oconner-car-v0-a32kjfosv8fb1.jpg?width=1920&format=pjpg&auto=webp&s=af6823a88077ba5d770db69a28837e3a30f85377"
+    },
+    {
+        "filePath": "https://cdn.discordapp.com/attachments/976809804074991616/1202660375208927322/image.png?ex=66312441&is=662fd2c1&hm=6c0d56208e05e0446fcaa799328d7832919e16d9491d56c8c464f8bb9a295169&"
+    }
 ]
